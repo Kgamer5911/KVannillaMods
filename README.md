@@ -7,9 +7,16 @@ If you want My config for inventory profiles next(the one that adds the green ov
 **Note - when using litematica shaders will be messed up if you disable loaded schematics then visual bugs will go away
 
 Usefull keybinds:
+
 minimap : m
+
 Litematica Menu : m
+
 InventoryProfileNext config : R+C
+
 WTHIT config : numpad 0
+
 MiniHUD config : H+C
+
 Light Overlay : F7
+
