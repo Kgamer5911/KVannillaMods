@@ -18,5 +18,5 @@ WTHIT config : numpad 0
 
 MiniHUD config : H+C
 
-Light Overlay : F7
+Light Overlay(With my config): F7
 
