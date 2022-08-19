@@ -4,11 +4,22 @@
         "first_run": false
     },
     "GuiSettings": {
+        "enable_inventory_buttons": false,
+        "enable_inventory_editor_button": false,
         "show_continuous_crafting_checkbox": false,
         "continuous_crafting_saved_value": false
     },
+    "LockedSlotsSettings": {
+        "locked_slots_empty_hotbar_as_semi_locked": false,
+        "lock_slots_quick_config_key": {
+            "main": {
+                "keys": "KP_3"
+            }
+        }
+    },
     "AutoRefillSettings": {
-        "refill_before_tool_break": true
+        "number_of_notifications": 2,
+        "visual_replace_failed_notification": false
     },
     "Hotkeys": {
         "sort_inventory": {
