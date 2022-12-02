@@ -1,6 +1,6 @@
 # KVannillaMinecraft
-For Minecraft 1.19 choose between optifine or iris and sodium
-If you want My config for inventory profiles next(the one that adds the green overlay on items you are hovering over) copy config folder as well
+For Minecraft  choose version some have subversions as well
+If you want My config(highly recomended) for inventory profiles next(the one that adds the green overlay on items you are hovering over) copy config folder as well
 
 **Note - It is recomended to change either the maps keybind or litmatica's keybind(both are configured to m) if you want to change litematicas you have to change the minimaps keybind to access the litematica config menu.
 
