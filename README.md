@@ -28,6 +28,8 @@ Push to Talk: CAPS LOCK
 
 Mute Mic: M
 
+Find Item: while hovering over item press y
+
 
 
 **Usefull commands:**
